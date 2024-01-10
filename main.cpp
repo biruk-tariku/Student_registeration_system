@@ -4,6 +4,7 @@
 #include <string>
 using namespace std;
 
+
 struct names{
     string fname;
     string lname;
