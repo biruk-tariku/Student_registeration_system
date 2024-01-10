@@ -190,7 +190,6 @@ void delete_middle(pnode *head, pnode p, pnode prev)
     }
 }
 
-
 void delete_last(pnode *head)
 {
     if(*head == NULL)
