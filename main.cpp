@@ -190,6 +190,7 @@ void delete_middle(pnode *head, pnode p, pnode prev)
     }
 }
 
+
 void delete_last(pnode *head)
 {
     if(*head == NULL)
@@ -533,6 +534,7 @@ int main()
             exit=false;
             break;
 
+            
         default:
                 cout << "Invalid choice. Please enter a valid option." << endl;
                 goto b;
