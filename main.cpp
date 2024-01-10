@@ -318,7 +318,6 @@ void printList(pnode head) {
     cout << endl;
 }
 
-
 #define Max 30
 #define null -1
 
