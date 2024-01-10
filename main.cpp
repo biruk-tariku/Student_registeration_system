@@ -532,7 +532,6 @@ int main()
         case 8:
             exit=false;
             break;
-
             
         default:
                 cout << "Invalid choice. Please enter a valid option." << endl;
