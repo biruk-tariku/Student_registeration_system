@@ -239,6 +239,7 @@ void delete_record(){
     }
 }
 
+
 void update_record(pnode *head){
     string data,data2;
     cout <<"To search record to be updated\n";
