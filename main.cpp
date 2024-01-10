@@ -21,7 +21,6 @@ typedef node *pnode;
 
 pnode head, p,q, prev, last,temp,ptr1,ptr2,curr;
 
-
 void create (pnode *head){
     *head = NULL;
 }
