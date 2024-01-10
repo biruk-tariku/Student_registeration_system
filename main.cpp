@@ -12,6 +12,7 @@ struct names{
     string dept;
 };
 
+
 struct node{
     names name;
     node *nxt;
